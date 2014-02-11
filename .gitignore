@@ -1,0 +1,4 @@
+*.suo
+ORM.Initiator/bin/*
+ORM.Initiator/obj/*
+packages/*/*
